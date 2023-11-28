@@ -21,9 +21,9 @@ package command
 
 import (
 	"fmt"
+	"github.com/apache/incubator-kie-kogito-serverless-operator/workflowproj"
 	"github.com/kiegroup/kie-tools/packages/kn-plugin-workflow/pkg/common"
 	"github.com/kiegroup/kie-tools/packages/kn-plugin-workflow/pkg/metadata"
-	"github.com/kiegroup/kogito-serverless-operator/workflowproj"
 	"os"
 	"path/filepath"
 )
